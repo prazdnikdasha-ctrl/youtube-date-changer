@@ -1,6 +1,6 @@
 from datetime import datetime
 
-today = datetime.now().strftime("%d %B").upper()
+today = datetime.now().strftime("%d.%m.%Y")
 
 title = f"‼️Если ты увидишь 👀 это видео {today} ЭТО ЗНАК🪬судьбоносные перемены идут в твою жизнь ❤️🤯 расклад"
 
